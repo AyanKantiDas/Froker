@@ -7,5 +7,13 @@ This is the Homepage where u can see the stories of each profile in horizontal s
 The other section is the posts section where u can see the posts with vertical scrolling.
 At the bottom there is the suggestionj section with vertical scrolling. 
 At the Bottom right side there is the fixed floating button of the profile icon which redirects to the profile page of the user.
+![Screenshot_20240721_100207_Expo Go](https://github.com/user-attachments/assets/e31f5bd3-2656-4393-bc10-ee4367197aad)
+![Screenshot_20240721_100214_Expo Go](https://github.com/user-attachments/assets/77cb65e4-c281-4b9d-93b5-0062614e9e18)
+The last page is the Profile Page.
+U can see the profile image at the right corner and the followinf, follower and number of posts in the left side.
+The posts are in vertical scrolling order.
+![Screenshot_20240721_100223_Expo Go](https://github.com/user-attachments/assets/c8a8491f-b669-4378-802b-740a4c5cc322)
+
+
 
 
